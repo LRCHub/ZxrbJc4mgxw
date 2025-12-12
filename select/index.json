@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "OFFSIDE",
+  "base_artist": "Dannie May",
+  "createdAt": "2025-12-12T00:12:04.756717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Insane (feat. MC Offside)",
+      "artist": "S3RL",
+      "has_synced": true,
+      "path": "select/01_Go_Insane_(feat._MC_Offside)_S3RL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Janusz Walczuk feat. Lucassi",
+      "has_synced": true,
+      "path": "select/02_Offside_Janusz_Walczuk_feat._Lucassi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Janusz Walczuk/Lucassi",
+      "has_synced": true,
+      "path": "select/03_Offside_Janusz_Walczuk_Lucassi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Offside! - 2004 Remastered Version",
+      "artist": "Gyllene Tider",
+      "has_synced": true,
+      "path": "select/04_Offside!_-_2004_Remastered_Version_Gyllene_Tider.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Gyllene Tider",
+      "has_synced": true,
+      "path": "select/05_Offside_Gyllene_Tider.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friendzoned (feat. Mixie Moon & MC Offside)",
+      "artist": "S3RL",
+      "has_synced": true,
+      "path": "select/06_Friendzoned_(feat._Mixie_Moon_&_MC_Offside)_S3RL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Janusz Walczuk",
+      "has_synced": true,
+      "path": "select/07_Offside_Janusz_Walczuk.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Zedk",
+      "has_synced": false,
+      "path": "select/08_Offside_Zedk.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Kills Birds",
+      "has_synced": true,
+      "path": "select/09_Offside_Kills_Birds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Yizzy",
+      "has_synced": true,
+      "path": "select/10_Offside_Yizzy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Kush Mink",
+      "has_synced": false,
+      "path": "select/11_Offside_Kush_Mink.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Offside",
+      "artist": "Band of Spice",
+      "has_synced": true,
+      "path": "select/12_Offside_Band_of_Spice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Offside! ('Rockriff' Cassette Compilation / Out-take 'Puls')",
+      "artist": "Gyllene Tider",
+      "has_synced": false,
+      "path": "select/13_Offside!_('Rockriff'_Cassette_Compilation___Out-take_'Puls')_Gyllene_Tider.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Offside!",
+      "artist": "Gyllene Tider",
+      "has_synced": false,
+      "path": "select/14_Offside!_Gyllene_Tider.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Offside! [tape] [out take]",
+      "artist": "Gyllene Tider",
+      "has_synced": false,
+      "path": "select/15_Offside!_[tape]_[out_take]_Gyllene_Tider.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "offside",
+      "artist": "Loyalkidx",
+      "has_synced": true,
+      "path": "select/16_offside_Loyalkidx.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Offside!",
+      "artist": "Gyllene Tider",
+      "has_synced": true,
+      "path": "select/17_Offside!_Gyllene_Tider.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OFFSIDE",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_OFFSIDE_Dannie_May.txt"
+    }
+  ]
+}
